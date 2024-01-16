@@ -20,19 +20,19 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Kinoo',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          '',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Down To Earth',
         description:
           'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
-        name: 'Another Cool Project',
+        name: 'A Cog in the Cosmic Machine',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
         link: 'https://github.com/RyanFitzgerald/devfolio',
@@ -41,19 +41,12 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Gameplay Programmer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Kinoo',
+        description: 'Unity Developer, August 2021 - July 2022',
       },
       {
-        name: 'Globex Corp',
-        description: 'Gameplay Programmer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Gameplay Programmer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'iDTech',
+        description: 'Online Private Instructor, December 2017 - February 2020',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
